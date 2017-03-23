@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registry of Persons</string>
+    <string name="buttonBorrar">Clear</string>
+    <string name="buttonSaludar">Hello!</string>
+    <string name="hello_world"></string>
+    <string name="lblAge">Age</string>
+    <string name="lblAgeAnswer">Age:</string>
+    <string name="lblFirstMiddleName">First Middle Name</string>
+    <string name="lblFirstMiddleNameAnswer">First Middle Name:</string>
+    <string name="lblFirstName">First Name</string>
+    <string name="lblFirstNameAnswer">First Name:</string>
+    <string name="lblSecondMiddleName">Second Middle Name</string>
+    <string name="lblSecondMiddleNameAnswer">Second Middle Name</string>
+    <string name="lblSecondName">Second Name</string>
+    <string name="lblSecondNameAnswer">Second Name:</string>
+    <string name="lblSex">Sex</string>
+    <string name="lblSexAnswer">Sex;</string>
+    <string name="lblTitle">REGISTRY OF PERSONS</string>
+    <string name="lblTitleAnswer">ANSWER</string>
+    <string name="radioButtonFemenino">Female</string>
+    <string name="radioButtonMasculino">Male</string>
+    <string name="title_activity_activity_saludo" translatable="false"></string>
+    <string name="title_activity_saludo">Hello!</string>
+</resources>

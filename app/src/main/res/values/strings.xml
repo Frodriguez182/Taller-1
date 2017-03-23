@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Registro de Personas</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    //Strings de Labels
+    <string name="lblTitle">REGISTRO DE PERSONAS</string>
+    <string name="lblFirstName">Primer nombre</string>
+    <string name="lblSecondName">Segundo nombre</string>
+    <string name="lblFirstMiddleName">Primer apellido</string>
+    <string name="lblSecondMiddleName">Segundo apellido</string>
+    <string name="lblAge">Edad</string>
+    <string name="lblSex">Sexo</string>
+
+    //Strings de Cajas de Textos
+    <string name="txtFirstName" />
+    <string name="txtSecondName" />
+    <string name="txtFirstMiddleName" />
+    <string name="txtSecondMiddleName" />
+    <string name="txtAge" />
+    //Strings de radio buttons
+    <string name="radioButtonMasculino">Masculino</string>
+    <string name="radioButtonFemenino">Femenino</string>
+
+    //Strings Botones
+    <string name="buttonSaludar">Saludar</string>
+    <string name="buttonBorrar">Borrar</string>
+
+    //Strings de Activity Respuesta
+    <string name="title_activity_activity_saludo" translatable="false">ActivitySaludo</string>
+    <string name="lblTitleAnswer">RESPUESTA</string>
+    <string name="lblFirstNameAnswer">Primer Nombre:</string>
+    <string name="lblSecondNameAnswer">Segundo Nombre:</string>
+    <string name="lblFirstMiddleNameAnswer">Primer Apellido:</string>
+    <string name="lblSecondMiddleNameAnswer">Segundo Apellido</string>
+    <string name="lblAgeAnswer">Edad:</string>
+    <string name="lblSexAnswer">Sexo:</string>
+    <string name="English" translatable="false">English</string>
+    <string name="title_activity_saludo">Saludo</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
