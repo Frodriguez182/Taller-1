@@ -1,4 +1,4 @@
-package Fernando.Rodriguez.Castro;
+package com.fernando.rodriguez;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

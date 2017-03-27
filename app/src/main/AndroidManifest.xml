@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="Fernando.Rodriguez.Castro" >
+    package="com.fernando.rodriguez" >
 
     <application
         android:allowBackup="true"
@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="Fernando.Rodriguez.Castro.Registro"
+            android:name="com.fernando.rodriguez.Registro"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="Fernando.Rodriguez.Castro.Saludo"
+            android:name="com.fernando.rodriguez.Saludo"
             android:label="@string/title_activity_saludo" >
         </activity>
     </application>

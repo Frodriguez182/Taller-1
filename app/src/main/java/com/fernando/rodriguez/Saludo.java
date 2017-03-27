@@ -1,4 +1,4 @@
-package Fernando.Rodriguez.Castro;
+package com.fernando.rodriguez;
 
 import android.content.res.Resources;
 import android.support.v7.app.AppCompatActivity;
@@ -15,6 +15,7 @@ public class Saludo extends AppCompatActivity {
     private TextView answ3;
     private TextView answ4;
     private TextView answ5;
+    private Resources res;
     private TextView answ6;
     private String fName, fSecName, fMidName, fSecMidName, fAge, fSex;
 
@@ -38,7 +39,7 @@ public class Saludo extends AppCompatActivity {
         fAge = bip.getString("age");
         fSex= bip.getString("sex");
 
-
+        res = getResources();
 
         answ1.setText("Hola \n"+fName+", seguramente éste es tu Primer Nombre.");
         answ2.setText("Segundo Nombre: "+fSecName);

@@ -1,21 +1,19 @@
-package Fernando.Rodriguez.Castro;
+package com.fernando.rodriguez;
 
 import android.content.Intent;
 import android.content.res.Resources;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.RadioButton;
-
 
 
 public class Registro extends AppCompatActivity {
 
     private EditText firstName, secondName, firstMidName, secondMidName, age;
     private RadioButton masc, fem;
-
+    private Resources res;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
